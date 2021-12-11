@@ -1,3 +1,3 @@
 Git Course
 
-Este é um repositório teste para treinamento do Git
+Este é um repositório teste para treinamento do Git.
